@@ -1,3 +1,3 @@
-# Printear por pantalla "Hola Mundo"
+# Printear por pantalla "Hola Mundo".
 
 print("Hola mundo")
